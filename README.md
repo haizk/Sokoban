@@ -38,6 +38,13 @@ Other commands:
 - **Move Counter:** Keep track of your moves. The game displays the current number of moves for each level.
 - **Secret Cheat Code:** There's a hidden cheat code (`0x0521030`) that can be entered directly in the main menu. Simply type the code while on the main menu screen to unlock extra Hatoken!
 
+## Prerequisites
+
+Before compiling and running the game, ensure you have the following:
+
+- A C compiler, such as GCC (version 7.5 or later is recommended).
+- An operating system that supports GCC, such as Linux, Windows, or macOS.
+- (Optional) Make sure you have basic knowledge of using the terminal or command prompt.
 ## Compilation and Execution
 
 To compile and run the game, you'll need a C compiler (like GCC).
