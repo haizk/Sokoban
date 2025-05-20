@@ -19,15 +19,15 @@ Default game elements are represented by the following characters:
 
 Use the following keys to control the player and interact with the game:
 
-- **W**: Move Up
-- **A**: Move Left
-- **S**: Move Down
-- **D**: Move Right
+- `W`: Move Up
+- `A`: Move Left
+- `S`: Move Down
+- `D`: Move Right
 
 Other commands:
-- **R**: Restart the current level.
-- **Z**: Undo the last move.
-- **X**: Exit the current level and return to the level selector.
+- `R`: Restart the current level.
+- `Z`: Undo the last move.
+- `X`: Exit the current level and return to the level selector.
 
 ## Game Features
 
