@@ -36,7 +36,7 @@ Other commands:
 - **Shop:** Use your Hatoken in the in-game shop to customize the appearance of various game elements, such as walls, targets, boxes, and the player character. This allows you to personalize your gaming experience.
 - **Undo Functionality:** Made a wrong move? No problem! You can undo your last move using the 'Z' key.
 - **Move Counter:** Keep track of your moves. The game displays the current number of moves for each level.
-- **Secret Cheat Code:** There's a hidden cheat code (`0x0521030` in the main menu) to get extra Hatoken!
+- **Secret Cheat Code:** There's a hidden cheat code (`0x0521030`) that can be entered directly in the main menu. Simply type the code while on the main menu screen to unlock extra Hatoken!
 
 ## Compilation and Execution
 
