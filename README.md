@@ -42,7 +42,7 @@ Other commands:
 
 To compile and run the game, you'll need a C compiler (like GCC).
 
-1.  **Compile the code:**
+1. **Compile the code:**
     Open your terminal or command prompt, navigate to the directory containing `Sokoban.c`, and run the following command:
     ```bash
     gcc Sokoban.c -o Sokoban
